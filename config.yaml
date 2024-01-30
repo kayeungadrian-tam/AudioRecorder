@@ -1,0 +1,7 @@
+Audio:
+  channels: 2
+  rate: 44100
+  frames_per_buffer: 1024
+  input_device_index: 2
+  debug: false
+  # record_seconds: 5
